@@ -1,5 +1,5 @@
 ## 💻 Mi querido setup
-[![Header](https://res.cloudinary.com/djeaqj2sg/image/upload/v1684271744/my/MyDesk.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![Header](https://res.cloudinary.com/djeaqj2sg/image/upload/v1686101463/my/MyDesk.jpg "Header")]
 
 <p align="center">
     <a href="https://www.linkedin.com/in/felipe-horacio-jamett-ferran-73049b103/" target="blank" style="margin: 0 20px;">
